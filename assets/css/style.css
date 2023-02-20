@@ -10,6 +10,11 @@ header {
   padding: 20px;
 }
 
+.about-me img{
+  display: flex;
+  text-align: center;
+}
+
 nav {
   display: inline-block;
 }

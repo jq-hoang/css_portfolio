@@ -4,6 +4,7 @@
 ### [Deployed Application](https://jq-hoang.github.io/css_portfolio/)
 ### [Github Repo](https://github.com/jq-hoang/css_portfolio)
 
+![Screenshot of Deployed Application](https://github.com/jq-hoang/css_portfolio/blob/main/assets/application_screenshot.png)
 
 ## My Task:
 I am tasked with creating a CSS Portfolio Mockup to present to potential future employers.

@@ -1,7 +1,7 @@
 # Advanced CSS: Portfolio
 
 ## Overview:
-### [Deployed Application](https://github.com/jq-hoang/css_portfolio)
+### [Deployed Application](https://jq-hoang.github.io/css_portfolio/)
 ### [Github Repo](https://github.com/jq-hoang/css_portfolio)
 
 
